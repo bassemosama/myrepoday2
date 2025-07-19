@@ -1,0 +1,1 @@
+console.log("Hello, Bassem! This is coming from script.js");
